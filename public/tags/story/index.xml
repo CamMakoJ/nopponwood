@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on Nopp On Wood</title>
+    <link>/tags/story/</link>
+    <description>Recent content in Story on Nopp On Wood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 01:31:45 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Venture</title>
+      <link>/posts/new-venture/</link>
+      <pubDate>Wed, 19 Dec 2018 01:31:45 -0700</pubDate>
+      
+      <guid>/posts/new-venture/</guid>
+      <description>nopp on wood is my new venture - i hope you like it. soon everyone will like it. let me know if your interested. in any of my items. i also do custom work. </description>
+    </item>
+    
+  </channel>
+</rss>
